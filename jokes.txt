@@ -15,3 +15,4 @@ Why did the functions stop calling each other? - Because they had constant argum
 Bad at golf? - Join the club.
 Why was the designer always cold? - Because they always used too much ice-olation.
 Did you know crocodiles could grow up to 15 feet? - But most just have 4.
+Did you know crocodiles could grow up to 15 feet? - But most just have 4.
