@@ -143,3 +143,4 @@ Hey, wanna hear a joke? - Parsing HTML with regex.
 When is a door not a door? - When it's ajar.
 Why does Superman get invited to dinners? - Because he is a Supperhero.
 Why don't programmers like nature? - There's too many bugs.
+I couldn't get a reservation at the library... - They were fully booked.
