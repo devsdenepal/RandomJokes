@@ -142,3 +142,4 @@ Why would a guitarist become a good programmer? - He's adept at riffing in C#.
 Hey, wanna hear a joke? - Parsing HTML with regex.
 When is a door not a door? - When it's ajar.
 Why does Superman get invited to dinners? - Because he is a Supperhero.
+Why don't programmers like nature? - There's too many bugs.
