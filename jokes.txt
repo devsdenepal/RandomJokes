@@ -152,3 +152,4 @@ How do you tell the difference between a crocodile and an alligator? - You will 
 What's the difference between a seal and a sea lion? - An ion! 
 Why are fish easy to weigh? - Because they have their own scales.
 How do you get two whales in a car? - Start in England and drive West.
+What do you get when you cross a React developer with a mathematician? - A function component.
